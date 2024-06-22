@@ -7693,5 +7693,20 @@
 "average_speed": 1.4609015310347975,
 "source": "Keep",
 "streak": 2
+},
+{
+"run_id": 9223370317930225807,
+"name": "Walk from keep",
+"distance": 840.9100341796875,
+"moving_time": "0:11:18",
+"type": "Hike",
+"start_date": "2024-06-20 22:51:11",
+"start_date_local": "2024-06-21 06:51:11",
+"location_country": "{'latitude': 39.912778, 'longitude': 116.358696, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': None, 'districtCode': None}",
+"summary_polyline": "gqqrFsrkeU??",
+"average_heartrate": null,
+"average_speed": 1.240280286400719,
+"source": "Keep",
+"streak": 1
 }
 ]
