@@ -7665,6 +7665,96 @@
 "streak": 18
 },
 {
+"run_id": 9223370318329623807,
+"name": "Walk from keep",
+"distance": 877.5714721679688,
+"moving_time": "0:26:18",
+"type": "Hike",
+"start_date": "2024-06-16 07:39:34",
+"start_date_local": "2024-06-16 15:39:34",
+"location_country": "{'latitude': 39.912778, 'longitude': 116.358696, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': None, 'districtCode': None}",
+"summary_polyline": "gqqrFsrkeU??",
+"average_heartrate": null,
+"average_speed": 0.5561289430722235,
+"source": "Keep",
+"streak": 18
+},
+{
+"run_id": 9223370318325849807,
+"name": "Walk from keep",
+"distance": 1300.380859375,
+"moving_time": "0:26:41",
+"type": "Hike",
+"start_date": "2024-06-16 08:42:05",
+"start_date_local": "2024-06-16 16:42:05",
+"location_country": "{'latitude': 39.912778, 'longitude': 116.358696, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': None, 'districtCode': None}",
+"summary_polyline": "gqqrFsrkeU??",
+"average_heartrate": null,
+"average_speed": 0.812230393113679,
+"source": "Keep",
+"streak": 18
+},
+{
+"run_id": 9223370318314056807,
+"name": "Walk from keep",
+"distance": 4152.0185546875,
+"moving_time": "1:17:53",
+"type": "Hike",
+"start_date": "2024-06-16 11:07:26",
+"start_date_local": "2024-06-16 19:07:26",
+"location_country": "{'latitude': 39.912778, 'longitude': 116.358696, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': None, 'districtCode': None}",
+"summary_polyline": "gqqrFsrkeU??",
+"average_heartrate": null,
+"average_speed": 0.8885124234298095,
+"source": "Keep",
+"streak": 18
+},
+{
+"run_id": 9223370318275916807,
+"name": "Walk from keep",
+"distance": 842.46044921875,
+"moving_time": "0:13:38",
+"type": "Hike",
+"start_date": "2024-06-16 22:47:20",
+"start_date_local": "2024-06-17 06:47:20",
+"location_country": "{'latitude': 39.912778, 'longitude': 116.358696, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': None, 'districtCode': None}",
+"summary_polyline": "gqqrFsrkeU??",
+"average_heartrate": null,
+"average_speed": 1.0299027496561737,
+"source": "Keep",
+"streak": 19
+},
+{
+"run_id": 9223370318233752807,
+"name": "Walk from keep",
+"distance": 906.9970092773438,
+"moving_time": "0:10:20",
+"type": "Hike",
+"start_date": "2024-06-17 10:33:23",
+"start_date_local": "2024-06-17 18:33:23",
+"location_country": "{'latitude': 39.912778, 'longitude': 116.358696, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': None, 'districtCode': None}",
+"summary_polyline": "gqqrFsrkeU??",
+"average_heartrate": null,
+"average_speed": 1.4628984020602318,
+"source": "Keep",
+"streak": 19
+},
+{
+"run_id": 9223370318228117807,
+"name": "Walk from keep",
+"distance": 2147.534912109375,
+"moving_time": "0:35:36",
+"type": "Hike",
+"start_date": "2024-06-17 11:42:01",
+"start_date_local": "2024-06-17 19:42:01",
+"location_country": "{'latitude': 39.912778, 'longitude': 116.358696, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': None, 'districtCode': None}",
+"summary_polyline": "gqqrFsrkeU??",
+"average_heartrate": null,
+"average_speed": 1.00540023975158,
+"source": "Keep",
+"streak": 19
+},
+{
 "run_id": 9223370318189686807,
 "name": "Walk from keep",
 "distance": 818.0700073242188,
@@ -7677,7 +7767,7 @@
 "average_heartrate": null,
 "average_speed": 1.3657262225779945,
 "source": "Keep",
-"streak": 1
+"streak": 20
 },
 {
 "run_id": 9223370318102922807,
@@ -7692,7 +7782,37 @@
 "average_heartrate": null,
 "average_speed": 1.4609015310347975,
 "source": "Keep",
-"streak": 2
+"streak": 21
+},
+{
+"run_id": 9223370318015893807,
+"name": "Walk from keep",
+"distance": 838.7642211914062,
+"moving_time": "0:12:32",
+"type": "Hike",
+"start_date": "2024-06-19 23:02:09",
+"start_date_local": "2024-06-20 07:02:09",
+"location_country": "{'latitude': 39.912778, 'longitude': 116.358696, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': None, 'districtCode': None}",
+"summary_polyline": "gqqrFsrkeU??",
+"average_heartrate": null,
+"average_speed": 1.1153779537119763,
+"source": "Keep",
+"streak": 22
+},
+{
+"run_id": 9223370317974271807,
+"name": "Walk from keep",
+"distance": 890.8799438476562,
+"moving_time": "0:11:13",
+"type": "Hike",
+"start_date": "2024-06-20 10:37:10",
+"start_date_local": "2024-06-20 18:37:10",
+"location_country": "{'latitude': 39.912778, 'longitude': 116.358696, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': None, 'districtCode': None}",
+"summary_polyline": "gqqrFsrkeU??",
+"average_heartrate": null,
+"average_speed": 1.3237443444987462,
+"source": "Keep",
+"streak": 22
 },
 {
 "run_id": 9223370317930225807,
@@ -7707,6 +7827,21 @@
 "average_heartrate": null,
 "average_speed": 1.240280286400719,
 "source": "Keep",
-"streak": 1
+"streak": 23
+},
+{
+"run_id": 9223370317790794107,
+"name": "Run from keep",
+"distance": 6141.390380285571,
+"moving_time": "0:50:46",
+"type": "Run",
+"start_date": "2024-06-22 12:55:33",
+"start_date_local": "2024-06-22 20:55:33",
+"location_country": "{'latitude': 40.12650556051905, 'longitude': 116.26824726666496, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': '\u660c\u5e73\u533a', 'districtCode': '110114'}",
+"summary_polyline": "ax{sFefrdUHMGOA_@Iy@AUOoAASEIWHM@MCe@Jm@BOFc@?ODcAHWIo@Ee@?MF]?i@C]F_A?gAG[EGFcA?y@@y@?_AAcAF]C@OJ@?OOs@Qa@MG}@?ODICSBk@CeAD_A@s@AOBy@AIAMUIoA?QE[Oc@WQQYIUe@{@GWB[A]AeAGkAAq@Gc@?SMgACIEg@@MEQ?UQwAOiAQkAQoAMqAOiAKaACM?QEK?QESOuAKmAEw@EI@OIo@IgAASCS?e@OoAI}@?mACa@AsA?e@@KEuACoAAuA?oAAe@CO@SCmA?[@UAK@_ACM?cAAS?kACO@QCiA?mAAQBS?g@G_A?UAO@MAiAEuA@w@COAuAAeABa@CKBOEk@BOCMAoA?kA?KEkAAkA?uACiA?MAcAAm@?mAAkAEqACiA@e@IF@jAFfAAf@@PAt@BlABjA?xABpA@pA@fAARBlA@nABvA@pABv@DZCnA?LAJBb@@rA?h@CPDP@jA@hAAd@BhADjAAf@BRCVA~@Dp@AVDt@D^EdA?bABJ?rABjA@PCLBRBnABjAAx@?bAHf@?rAHx@CVBRNrABJEZNrABb@Hl@@b@JpALpA?LNjALbABNLfANhANdALdA?PTnANjALtAJbAHdADhA@JCJFjABdA@j@NTHBT^BJ\\d@^XH\\ATBN?RBf@FRNHHCFBf@?d@Ml@BHCFHJCX@JEVFz@@ZCVBNALGZ?RPLDFZE`@H`@XJx@Ip@E`@Bv@?x@Gv@AP@XCf@FX@XMr@FJCFDREr@Eh@Bz@Er@BNE^@",
+"average_heartrate": null,
+"average_speed": 2.016214832661054,
+"source": "Keep",
+"streak": 24
 }
 ]
