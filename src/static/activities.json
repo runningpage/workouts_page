@@ -7843,5 +7843,20 @@
 "average_speed": 2.016214832661054,
 "source": "Keep",
 "streak": 24
+},
+{
+"run_id": 9223370317707731107,
+"name": "Run from keep",
+"distance": 841.3841423586122,
+"moving_time": "0:06:27",
+"type": "Run",
+"start_date": "2024-06-23 12:44:15",
+"start_date_local": "2024-06-23 20:44:15",
+"location_country": "{'latitude': 40.131968059789415, 'longitude': 116.26871115737035, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010', 'district': '\u660c\u5e73\u533a', 'districtCode': '110114'}",
+"summary_polyline": "mx{sFeirdUIiAGeAEIMF_AHcABOC{@N_A?_AAaAHQ@a@Ig@F[CM@cAAw@AM?ME}@@MDy@Ee@@OAm@HQAKMQGUBMGC_BI@UAk@BIAI@YA[FGCw@A",
+"average_heartrate": null,
+"average_speed": 2.1741192309008066,
+"source": "Keep",
+"streak": 25
 }
 ]
